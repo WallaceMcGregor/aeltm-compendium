@@ -1,0 +1,64 @@
+{   
+    "name": "aeltm-compendium",   
+    "title": "Compendios Aventuras en la Tierra Media",   
+    "description": "Contiene los compendios para Aventuras en la Tierra Media: las Clases y sus rasgos, Virtudes, Trasfondos y Equipo (armas, armaduras y Reliquias culturales)",   
+    "author": "Wallace McGregor",
+    "version": "1.0.0",
+    "minimumCoreVersion": "0.7.0",
+    "compatibleCoreVersion":"0.7.9",
+    "systems": ["dnd5e"],
+    "packs": [
+        {
+        "label": "Clases (AelTM)",
+        "entity": "Item",
+        "name": "clases-aeltm",
+        "path": "packs/clases-aeltm.db",
+        "system": "dnd5e"
+        },
+        {
+        "label": "Equipo (AelTM)",
+        "entity": "Item",
+        "name": "equipo-aeltm",
+        "path": "packs/equipo-aeltm.db",
+        "system": "dnd5e"
+        },
+        {
+        "label": "Rasgos de clase (AelTM)",
+        "entity": "Item",
+        "name": "rasgos-de-clase-aeltm",
+        "path": "packs/rasgos-de-clase-aeltm.db",
+        "system": "dnd5e"
+        },
+        {
+        "label": "Virtudes (AelTM)",
+        "entity": "Item",
+        "name": "virtudes-aeltm",
+        "path": "packs/virtudes-aeltm.db",
+        "system": "dnd5e"
+        },
+        {
+        "label": "Criaturas (AelTM)",
+        "entity": "Actor",
+        "name": "criaturas-aeltm",
+        "path": "packs/criaturas-aeltm.db",
+        "system": "dnd5e"
+        },
+        {
+        "label": "Trasfondos (AelTM)",
+        "entity": "Item",
+        "name": "trasfondos-aeltm",
+        "path": "packs/trasfondos-aeltm.db",
+        "system": "dnd5e"
+        },
+        {
+        "label": "Tablas de Trasfondos",
+        "entity": "RollTable",
+        "name": "tablas-de-trasfondos",
+        "path": "packs/tablas-de-trasfondos.db",
+        "system": "dnd5e"
+        }
+   ],
+   "url": "https://github.com/WallaceMcGregor/aeltm-compendium",
+   "manifest": "https://raw.githubusercontent.com/WallaceMcGregor/aeltm-compendium/master/module.json",
+   "download": "https://github.com/WallaceMcGregor/aeltm-compendium/archive/master.zip" 
+  }
