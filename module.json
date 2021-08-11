@@ -3,7 +3,7 @@
   "title": "Compendios Aventuras en la Tierra Media",
   "description": "Contiene los compendios para Aventuras en la Tierra Media: las Clases y sus rasgos, Virtudes, Trasfondos y Equipo (armas, armaduras y Reliquias culturales)",
   "author": "Wallace McGregor",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "minimumCoreVersion": "0.7.0",
   "compatibleCoreVersion": "0.8.8",
   "esmodules": [
