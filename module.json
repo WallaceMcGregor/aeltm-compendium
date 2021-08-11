@@ -12,6 +12,13 @@
   "systems": [
     "dnd5e"
   ],
+  "dependencies": [
+    {
+      "name": "compendium-folders",
+      "manifest": "https://raw.githubusercontent.com/earlSt1/vtt-compendium-folders/082-update/module.json",
+      "version": "2.3.0"
+    }
+  ],
   "packs": [
     {
       "label": "Clases (AelTM)",
