@@ -5,7 +5,7 @@
   "author": "Wallace McGregor",
   "version": "1.1.0",
   "minimumCoreVersion": "0.7.0",
-  "compatibleCoreVersion": "0.8.8",
+  "compatibleCoreVersion": "9",
   "esmodules": [
     "aeltm-compendium.js"
   ],
