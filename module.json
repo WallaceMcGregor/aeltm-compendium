@@ -81,7 +81,7 @@
       "system": "dnd5e"
     }
   ],
-  "url": "https://github.com/WallaceMcGregor/aeltm-compendium/tree/main",
+  "url": "https://github.com/WallaceMcGregor/aeltm-compendium",
   "manifest": "https://raw.githubusercontent.com/WallaceMcGregor/aeltm-compendium/main/module.json",
   "download": "https://github.com/WallaceMcGregor/aeltm-compendium/archive/main.zip"
 }
