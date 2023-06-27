@@ -1,11 +1,15 @@
 {
   "name": "aeltm-compendium",
   "title": "Compendios Aventuras en la Tierra Media",
-  "description": "Contiene los compendios para Aventuras en la Tierra Media: las Clases y sus rasgos, Virtudes, Trasfondos y Equipo (armas, armaduras y Reliquias culturales)",
-  "author": "Wallace McGregor",
-  "version": "1.1.0",
-  "minimumCoreVersion": "0.7.0",
-  "compatibleCoreVersion": "9",
+  "description": "Contiene los compendios para Aventuras en la Tierra Media: las clases y subclases, rasgos, virtudes, trasfondos y tquipo (armas, armaduras y Reliquias culturales)",
+  "authors": [
+    {
+      "name": "WallaceMcGregor",
+    }
+  ],
+  "version": "2",
+  "minimumCoreVersion": "9",
+  "compatibleCoreVersion": "10",
   "esmodules": [
     "aeltm-compendium.js"
   ],
@@ -25,6 +29,13 @@
       "entity": "Item",
       "name": "clases-aeltm",
       "path": "packs/clases-aeltm.db",
+      "system": "dnd5e"
+    },
+    {
+      "label": "Subclases (AelTM)",
+      "entity": "Item",
+      "name": "subclases-aeltm",
+      "path": "packs/subclases-aeltm.db",
       "system": "dnd5e"
     },
     {
