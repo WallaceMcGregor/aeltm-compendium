@@ -82,6 +82,6 @@
     }
   ],
   "url": "https://github.com/WallaceMcGregor/aeltm-compendium",
-  "manifest": "https://raw.githubusercontent.com/WallaceMcGregor/aeltm-compendium/master/module.json",
+  "manifest": "https://raw.githubusercontent.com/WallaceMcGregor/aeltm-compendium/main/module.json",
   "download": "https://github.com/WallaceMcGregor/aeltm-compendium/archive/main.zip"
 }
