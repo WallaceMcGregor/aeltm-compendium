@@ -7,7 +7,7 @@
       "name": "WallaceMcGregor"
     }
   ],
-  "version": "2.2",
+  "version": "2.3",
   "minimumCoreVersion": "9",
   "compatibleCoreVersion": "10",
   "esmodules": [
@@ -36,6 +36,13 @@
       "entity": "Item",
       "name": "subclases-aeltm",
       "path": "packs/subclases-aeltm.db",
+      "system": "dnd5e"
+    },
+    {
+      "label": "Culturas (AelTM)",
+      "entity": "Item",
+      "name": "culturas-aeltm",
+      "path": "packs/culturas-aeltm.db",
       "system": "dnd5e"
     },
     {
