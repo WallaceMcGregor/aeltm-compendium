@@ -26,63 +26,63 @@
   "packs": [
     {
       "label": "Clases (AelTM)",
-      "entity": "Item",
+      "type": "Item",
       "name": "clases-aeltm",
       "path": "packs/clases-aeltm.db",
       "system": "dnd5e"
     },
     {
       "label": "Subclases (AelTM)",
-      "entity": "Item",
+      "type": "Item",
       "name": "subclases-aeltm",
       "path": "packs/subclases-aeltm.db",
       "system": "dnd5e"
     },
     {
       "label": "Culturas (AelTM)",
-      "entity": "Item",
+      "type": "Item",
       "name": "culturas-aeltm",
       "path": "packs/culturas-aeltm.db",
       "system": "dnd5e"
     },
     {
       "label": "Equipo (AelTM)",
-      "entity": "Item",
+      "type": "Item",
       "name": "equipo-aeltm",
       "path": "packs/equipo-aeltm.db",
       "system": "dnd5e"
     },
     {
       "label": "Rasgos de clase (AelTM)",
-      "entity": "Item",
+      "type": "Item",
       "name": "rasgos-de-clase-aeltm",
       "path": "packs/rasgos-de-clase-aeltm.db",
       "system": "dnd5e"
     },
     {
       "label": "Virtudes (AelTM)",
-      "entity": "Item",
+      "type": "Item",
       "name": "virtudes-aeltm",
       "path": "packs/virtudes-aeltm.db",
       "system": "dnd5e"
     },
     {
       "label": "Criaturas (AelTM)",
-      "entity": "Actor",
+      "type": "Actor",
       "name": "criaturas-aeltm",
       "path": "packs/criaturas-aeltm.db",
       "system": "dnd5e"
     },
     {
       "label": "Trasfondos (AelTM)",
-      "entity": "Item",
+      "type": "Item",
       "name": "trasfondos-aeltm",
       "path": "packs/trasfondos-aeltm.db",
       "system": "dnd5e"
     },
     {
       "label": "Tablas de Trasfondos",
-      "entity": "RollTable",
+      "type": "RollTable",
       "name": "tablas-de-trasfondos",
       "path": "packs/tablas-de-trasfondos.db",
       "system": "dnd5e"
